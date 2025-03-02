@@ -1,4 +1,5 @@
 # **YMicroNest 项目介绍**
+[使用说明](https://github.com/yicheny/YMicroNest/blob/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 ## **项目概述**
 **YMicroNest** 是一个基于 **TypeScript + React** 的微前端模板，集成了 **Webpack Module Federation** 和 **micro-app** 框架，提供高效、灵活的微前端解决方案，支持多团队协作、独立模块开发以及渐进式迁移，适用于构建复杂的大型前端应用。
